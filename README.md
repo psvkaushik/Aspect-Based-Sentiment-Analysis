@@ -27,13 +27,14 @@ The Results observed:
 
 ![image](https://github.com/psvkaushik/Aspect-Based-Sentiment-Analysis/assets/86014345/29d773bf-f7d6-43c2-bade-7644d3528369)
 
-### Attention Based Model
+### Attention Based Model with Aspect Embedding
 
-Thiis based on the attention mechanism, which allows the model to focus on relevant parts of the text while making predictions. This approach helps to capture the sentiment expressed towards specific aspects more effectively. The ![MultiHeadAttention](https://www.tensorflow.org/api_docs/python/tf/keras/layers/MultiHeadAttention) module from tensorflow was used as the attention layer
+This model is based on the attention mechanism, which allows the model to focus on relevant parts of the text while making predictions. This approach helps to capture the sentiment expressed towards specific aspects more effectively. The ![MultiHeadAttention](https://www.tensorflow.org/api_docs/python/tf/keras/layers/MultiHeadAttention) module from tensorflow was used as the attention layer. The aspect word is also embedded into the input
 
 Architecture:
 
-![image](https://github.com/psvkaushik/Aspect-Based-Sentiment-Analysis/assets/86014345/48923807-bd4c-42d3-923f-93b216119b3c)
+![image](https://github.com/psvkaushik/Aspect-Based-Sentiment-Analysis/assets/86014345/68a8c8c7-9fa0-42e8-bc2e-ebc52d8ed57e)
+
 
 Results Observed:
 
