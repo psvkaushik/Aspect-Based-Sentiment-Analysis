@@ -40,6 +40,8 @@ Results Observed:
 
 ![image](https://github.com/psvkaushik/Aspect-Based-Sentiment-Analysis/assets/86014345/5fe33ed7-9465-4203-bb42-c10a13ae74ac)
 
+The code for the above two models are found ![here](https://github.com/psvkaushik/Aspect-Based-Sentiment-Analysis/tree/main/Notebooks)
+
 ### Fine-Tuning BERT
 
 _Coming soon....._
