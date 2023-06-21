@@ -18,9 +18,13 @@ The models and architecture used for ABSA are:
 
 ### Bi-LSTM
 Architecture:
+
+
 ![image](https://github.com/psvkaushik/Aspect-Based-Sentiment-Analysis/assets/86014345/ec59fc82-fd4d-4885-ab7b-133769ff0422)
 
 The Results observed:
+
+
 ![image](https://github.com/psvkaushik/Aspect-Based-Sentiment-Analysis/assets/86014345/29d773bf-f7d6-43c2-bade-7644d3528369)
 
 
