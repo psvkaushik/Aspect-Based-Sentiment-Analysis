@@ -14,4 +14,14 @@ The objective of this project is to develop a model that can accurately predict 
 The data is taken from kaggle and is available ![here](https://github.com/sushanthreddyC/Aspect-Based-Sentiment-Analysis/tree/main/data). The files named Laptop_Train_v2 and Restraunts_Train_v2 are used for training and validation of the models.
 
 ## Models Trained
-The model architecture used for ABSA is based on the attention mechanism, which allows the model to focus on relevant parts of the text while making predictions. This approach helps to capture the sentiment expressed towards specific aspects more effectively.
+The models and architecture used for ABSA are:
+
+### Bi-LSTM
+Architecture:
+![image](https://github.com/psvkaushik/Aspect-Based-Sentiment-Analysis/assets/86014345/ec59fc82-fd4d-4885-ab7b-133769ff0422)
+
+The Results observed:
+![image](https://github.com/psvkaushik/Aspect-Based-Sentiment-Analysis/assets/86014345/29d773bf-f7d6-43c2-bade-7644d3528369)
+
+
+is based on the attention mechanism, which allows the model to focus on relevant parts of the text while making predictions. This approach helps to capture the sentiment expressed towards specific aspects more effectively.
